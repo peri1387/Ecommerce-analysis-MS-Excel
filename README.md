@@ -36,7 +36,8 @@ Dataset Information
 • Business-focused insights to support decision-making
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](Screenshot 2025-12-16 003603.png) 
+<img width="980" height="562" alt="Screenshot 2025-12-16 003603" src="https://github.com/user-attachments/assets/0f559959-e81b-42a5-8501-7ce52dfcda7c" />
+ 
 
 ## 📁 Files in this Repository
 * `Ecommerce_Data_Analysis_Report.xlsx`: The full data model and dashboards.
